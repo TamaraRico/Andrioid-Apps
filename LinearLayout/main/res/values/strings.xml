@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="textView1">This is a text view</string>
+    <string name="send">SEND</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="to_hint">Enter email address</string>
+</resources>
